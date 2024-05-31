@@ -3,4 +3,4 @@ This repository houses all my AWS projects, as well as my notes for the cloud pr
 Let's dive right into it!!! 😄😃
 ## AWS Notes for Cloud Practitioner.
 ## AWS Projects
-### PRoject 1
+### Project 1
