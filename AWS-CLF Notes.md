@@ -38,3 +38,8 @@ your organization, including: Access restrictions, Service limitations, Resource
 - Ensure consistent configuration
 ## Conclusion
 In conclusion, AWS IAM services offer a powerful toolset for managing access to one's AWS resources. With IAM, One can focus on driving innovation and growth, while keeping your resources safe and secure. Learning IAM and its services on AWS has given me a whole different persepective to account management and security processes.
+# Elastic Compute Instances (EC2 Instances)
+# Elastic Load Balancing
+# Amazon S3 Bucket
+# Amazon Networking
+# Amazon Billing Policies
